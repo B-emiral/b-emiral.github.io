@@ -3,6 +3,7 @@ layout: default
 title: Home
 ---
 
+
 # Welcome to My Academic Portfolio
 
 Here, you'll find information about my academic work, projects, and professional interests.
