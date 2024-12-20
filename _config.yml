@@ -1,6 +1,6 @@
-title: "My Academic Portfolio"
-author: "Bilgehan Emiral"
-description: "A portfolio showcasing my academic work, projects, and professional interests."
-baseurl: ""
-url: "https://yourgithubusername.github.io"
+title: My Academic Portfolio
+author: Bilgehan Emiral
+description: A portfolio showcasing my academic work, projects, and professional interests.
+baseurl: /b-emiral
+url: https://b-emiral.github.io
 theme: minima
