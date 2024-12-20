@@ -8,7 +8,7 @@ title: Home
 Welcome to my portfolio! Here, you'll find information about my academic work, projects, and professional interests.
 
 ## Academic Publications
-- **Deep Hotel Recommender System Using Aspect-based Sentiment Analysis of Users' Reviews**  
+- [**Deep Hotel Recommender System Using Aspect-based Sentiment Analysis of Users' Reviews**](static/PublishedPaperICPR26th@2208.pdf)  
   *Presented at the 26th International Conference on Pattern Recognition (ICPR), Canada, QC, Montréal (2022 August), published in IEEE.*
 
 ## Projects
