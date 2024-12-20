@@ -5,11 +5,14 @@ title: Home
 
 # Welcome to My Academic Portfolio
 
-Welcome to my portfolio! Here, you'll find information about my academic work, projects, and professional interests.
+Here, you'll find information about my academic work, projects, and professional interests.
 
 ## Academic Publications
 - [**Deep Hotel Recommender System Using Aspect-based Sentiment Analysis of Users' Reviews (Click) 📝**](static/PublishedPaperICPR26th@2208.pdf)  
   *Presented at the 26th International Conference on Pattern Recognition (ICPR), Canada, QC, Montréal (2022 August), published in IEEE.*
+  - [Paper](static/PublishedPaperICPR26th@2208.pdf)
+  - [IEEE Link](https://ieeexplore.ieee.org/document/9956570)
+  
 
 ## Projects
 - #### **Computer Engineering Graduation Thesis & Project:**  
