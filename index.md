@@ -20,7 +20,7 @@ Here, you'll find information about my academic work, projects, and professional
   Deep Hotel Recommender System Using Aspect-based Sentiment Analysis of Users' Reviews (2022 January)
 
   - [Paper](static/GraduationProjectReport@2201.pdf)
-  - [Presentation](static/GraduationProjectPresentation@2201)
+  - [Presentation](static/GraduationProjectPresentation@2201.pdf)
 
 - #### **Lab Projects:**
 
