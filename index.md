@@ -7,36 +7,6 @@ title: Bilgehan Emiral - Academic Portfolio
 
 Welcome! This portfolio showcases my academic journey, projects, publications, and professional interests in Computer Science, focusing on Artificial Intelligence and Machine Learning.
 
-## Education
-
-### **Master of Science (M.Sc.) in Informatics** (April 2023 - September 2025)
-   Technische Universität München (TUM), Munich, Germany
-
-#### Key Coursework:
-* **Data Mining and Knowledge Discovery**
-* **Introduction to Deep Learning**
-* **Natural Language Processing**
-* **Advanced Natural Language Processing**
-* **MASTER SEMINAR Natural Language Processing: Methods and Applications**
-* **MASTER PRAKTIKUM 1 - Ethical AI: Problems and Applications**
-* **MASTER PRAKTIKUM 2 - Machine Learning for Natural Language Processing Applications**
-
-### **Bachelor of Science (B.Sc.) in Computer Engineering** (October 2018 - June 2022) 
-Istanbul Technical University (ITU), Istanbul, Turkey
-**GPA 3.11 / 4.00**
-#### Key Coursework:
-* **Intr to Sci&Eng Comp (C)**  [4.00 / 4.00]
-* **Object Oriented Programming** [4.00 / 4.00]
-* **Analysis of Algorithms I**  [4.00 / 4.00]
-* **Analysis of Algorithms II**   [4.00 / 4.00]
-* **Data Structures**
-* **Computer Operating Systems**
-* **Computer Architecture**
-* **Functional Programming (Haskell)** [3.50 / 4.00]
-* **Software Engineering**
-* **Database Systems**  [4.00 / 4.00]
-* **Computer Engineering Design I** [4.00 / 4.00]
-* **Computer Engineering Design II** [4.00 / 4.00]
 
 ## Academic Publications
 
@@ -82,3 +52,34 @@ Istanbul Technical University (ITU), Istanbul, Turkey
 My real interest lies where AI, ML, and data science come together. I enjoy taking concepts and turning them into practical tools that solve actual problems. I'm especially drawn to the progress in NLP and the potential within LLMs for tasks like building better conversational systems. Creating models is key, but I'm also keen on the whole lifecycle – making sure ML systems are robust, deployable, and well-managed, which touches on MLOps. Finding valuable insights hidden in data and building effective, trustworthy AI solutions is what truly drives my work.
 
 ---
+
+## Education
+
+### **Master of Science (M.Sc.) in Informatics** (April 2023 - September 2025)
+   Technische Universität München (TUM), Munich, Germany
+
+#### Key Coursework:
+* **Data Mining and Knowledge Discovery**
+* **Introduction to Deep Learning**
+* **Natural Language Processing**
+* **Advanced Natural Language Processing**
+* **MASTER SEMINAR Natural Language Processing: Methods and Applications**
+* **MASTER PRAKTIKUM 1 - Ethical AI: Problems and Applications**
+* **MASTER PRAKTIKUM 2 - Machine Learning for Natural Language Processing Applications**
+
+### **Bachelor of Science (B.Sc.) in Computer Engineering** (October 2018 - June 2022) 
+Istanbul Technical University (ITU), Istanbul, Turkey
+**GPA 3.11 / 4.00**
+#### Key Coursework:
+* **Intr to Sci&Eng Comp (C)**  [4.00 / 4.00]
+* **Object Oriented Programming** [4.00 / 4.00]
+* **Analysis of Algorithms I**  [4.00 / 4.00]
+* **Analysis of Algorithms II**   [4.00 / 4.00]
+* **Data Structures**
+* **Computer Operating Systems**
+* **Computer Architecture**
+* **Functional Programming (Haskell)** [3.50 / 4.00]
+* **Software Engineering**
+* **Database Systems**  [4.00 / 4.00]
+* **Computer Engineering Design I** [4.00 / 4.00]
+* **Computer Engineering Design II** [4.00 / 4.00]
