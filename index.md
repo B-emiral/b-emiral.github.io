@@ -76,17 +76,15 @@ My real interest lies where AI, ML, and data science come together. I enjoy taki
 **GPA: 3.11 / 4.00**
 
 **Key Coursework:**
-| Course | Grade |
-|--------|-------|
-| Introduction to Scientific & Engineering Computing (C) | 4.00 / 4.00 |
-| Object Oriented Programming | 4.00 / 4.00 |
-| Analysis of Algorithms I | 4.00 / 4.00 |
-| Analysis of Algorithms II | 4.00 / 4.00 |
-| Data Structures | - |
-| Computer Operating Systems | - |
-| Computer Architecture | - |
-| Functional Programming (Haskell) | 3.50 / 4.00 |
-| Software Engineering | - |
-| Database Systems | 4.00 / 4.00 |
-| Computer Engineering Design I | 4.00 / 4.00 |
-| Computer Engineering Design II | 4.00 / 4.00 |
+- Introduction to Scientific & Engineering Computing (C) [4.00 / 4.00]
+- Object Oriented Programming [4.00 / 4.00]
+- Analysis of Algorithms I [4.00 / 4.00]
+- Analysis of Algorithms II [4.00 / 4.00]
+- Data Structures
+- Computer Operating Systems
+- Computer Architecture
+- Functional Programming (Haskell) [3.50 / 4.00]
+- Software Engineering
+- Database Systems [4.00 / 4.00]
+- Computer Engineering Design I [4.00 / 4.00]
+- Computer Engineering Design II [4.00 / 4.00]
