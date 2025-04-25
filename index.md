@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bilgehan Emiral - Academic Portfolio
+title: Portfolio
 ---
 
 # Bilgehan Emiral - Academic Portfolio
