@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Portfolio
+title: Bilgehan Emiral - Academic Portfolio
 ---
 
-# Bilgehan Emiral - Academic Portfolio
+# Portfolio
 
 Welcome! This portfolio showcases my academic journey, projects, publications, and professional interests in Computer Science, focusing on Artificial Intelligence and Machine Learning.
 
