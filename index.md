@@ -55,31 +55,38 @@ My real interest lies where AI, ML, and data science come together. I enjoy taki
 
 ## Education
 
-### **Master of Science (M.Sc.) in Informatics** (April 2023 - September 2025)
-   Technische Universität München (TUM), Munich, Germany
+### **Master of Science (M.Sc.) in Informatics** 
+*Technische Universität München (TUM), Munich, Germany*  
+*April 2023 - September 2025*
 
-#### Key Coursework:
-* **Data Mining and Knowledge Discovery**
-* **Introduction to Deep Learning**
-* **Natural Language Processing**
-* **Advanced Natural Language Processing**
-* **MASTER SEMINAR Natural Language Processing: Methods and Applications**
-* **MASTER PRAKTIKUM 1 - Ethical AI: Problems and Applications**
-* **MASTER PRAKTIKUM 2 - Machine Learning for Natural Language Processing Applications**
+**Key Coursework:**
+- Data Mining and Knowledge Discovery
+- Introduction to Deep Learning
+- Natural Language Processing
+- Advanced Natural Language Processing
+- Master Seminar: Natural Language Processing - Methods and Applications
+- Master Praktikum: Ethical AI - Problems and Applications
+- Master Praktikum: Machine Learning for Natural Language Processing Applications
 
-### **Bachelor of Science (B.Sc.) in Computer Engineering** (October 2018 - June 2022) 
-Istanbul Technical University (ITU), Istanbul, Turkey
-**GPA 3.11 / 4.00**
-#### Key Coursework:
-* **Intr to Sci&Eng Comp (C)**  [4.00 / 4.00]
-* **Object Oriented Programming** [4.00 / 4.00]
-* **Analysis of Algorithms I**  [4.00 / 4.00]
-* **Analysis of Algorithms II**   [4.00 / 4.00]
-* **Data Structures**
-* **Computer Operating Systems**
-* **Computer Architecture**
-* **Functional Programming (Haskell)** [3.50 / 4.00]
-* **Software Engineering**
-* **Database Systems**  [4.00 / 4.00]
-* **Computer Engineering Design I** [4.00 / 4.00]
-* **Computer Engineering Design II** [4.00 / 4.00]
+---
+
+### **Bachelor of Science (B.Sc.) in Computer Engineering** 
+*Istanbul Technical University (ITU), Istanbul, Turkey*  
+*October 2018 - June 2022*  
+**GPA: 3.11 / 4.00**
+
+**Key Coursework:**
+| Course | Grade |
+|--------|-------|
+| Introduction to Scientific & Engineering Computing (C) | 4.00 / 4.00 |
+| Object Oriented Programming | 4.00 / 4.00 |
+| Analysis of Algorithms I | 4.00 / 4.00 |
+| Analysis of Algorithms II | 4.00 / 4.00 |
+| Data Structures | - |
+| Computer Operating Systems | - |
+| Computer Architecture | - |
+| Functional Programming (Haskell) | 3.50 / 4.00 |
+| Software Engineering | - |
+| Database Systems | 4.00 / 4.00 |
+| Computer Engineering Design I | 4.00 / 4.00 |
+| Computer Engineering Design II | 4.00 / 4.00 |
