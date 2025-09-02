@@ -8,7 +8,7 @@ title: Bilgehan Emiral - Academic Portfolio
 Welcome! This portfolio showcases projects, publications, and professional interests in Computer Science, focusing on Artificial Intelligence and Machine Learning.
 
 ## [[Portfolio Project](https://github.com/B-emiral/Portfolio)]
-a lightweight, extensible LLM runtime built on a Ports & **Adapters** architecture with **async before/after hooks** (anyio). Profiles (via profiles.toml) map environments to provider/model and hooksets; the LLMClient orchestrates calls through an adapter (Anthropic, OpenAI etc.), then runs hooks for logging, **Langfuse tracing**, and **MongoDB persistence**. Outputs are parsed and validated against **Pydantic v2 models**, with clean separation of retries: network-level in the adapter, JSON parsing-only at the task layer. The system favors explicit, minimal payloads and idempotent trace handling, making it suitable for production-grade observability and schema-enforced workflows.
+a lightweight, extensible LLM runtime built on a Ports & **Adapters** architecture with **async before/after hooks** (anyio). Profiles (via profiles.toml) map environments to provider/model and hooksets; the LLMClient orchestrates calls through an adapter (Anthropic, OpenAI etc.), then runs hooks for logging, **Langfuse tracing**, and **MongoDB persistence**. Outputs are parsed and validated against **Pydantic v2 models** (Guardrails), with clean separation of retries: network-level in the adapter, JSON parsing-only at the task layer (Tenacity). The system favors explicit, minimal payloads and idempotent trace handling, making it suitable for production-grade observability and schema-enforced workflows.
 
 - Language & Tooling
   - Python 3.12
